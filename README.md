@@ -1,2 +1,1 @@
-# Student-Recognition-System
-The client for FUDAOYUAN to recognize their students !
+需要联网的辅导员学生辨识系统
